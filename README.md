@@ -7,5 +7,4 @@ My name is Loren Kuich, I'm a full-stack developer out of British Columbia, Cana
 - 💬 Ask me about: Node.js, React, React Native, JVM, JavaScript, .NET, Etherium
 - 🏃‍♂️ I want to learn: Solidity, Go, Rust
 - 📫 How to reach me: loren.jk3@gmail.com
-- 😄 Pronouns: Words that substitute for a noun or noun phrase
 - ⚡ Fun fact: We're planning on moving to Izmir, Turkey! 🇹🇷🇬
