@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Loren Kuich, I'm a full-stack developer out of British Columbia, Canada and Izmir, Turkey. I'm passionate about applications of disruptive technologies, geopolotics, history and world travel!
+My name is Loren Kuich, I'm a full-stack developer out of British Columbia, Canada. I'm passionate about applications of disruptive technologies, geopolotics, history and world travel!
 
 I like to work on API's! Check out my Image recognition solution, [coach.lkuich.com](https://coach.lkuich.com) and my experimental JS frameworks, [JHJ](https://github.com/lkuich/JHJ) and [flub.js](https://github.com/lkuich/flub.js)
 
